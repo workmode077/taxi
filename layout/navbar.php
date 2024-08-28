@@ -11,10 +11,10 @@
 </div>
 <div class="top-right">
 <ul class="social-icon-one">
-<li><a href="index.php"><i class="fab fa-facebook"></i></a></li>
-<li><a href="index.php"><i class="fab fa-twitter"></i></a></li>
-<li><a href="index.php"><i class="fab fa-linkedin"></i></a></li>
-<li><a href="index.php"><i class="fab fa-instagram"></i></a></li>
+<li><a href="index.html"><i class="fab fa-facebook"></i></a></li>
+<li><a href="index.html"><i class="fab fa-twitter"></i></a></li>
+<li><a href="index.html"><i class="fab fa-linkedin"></i></a></li>
+<li><a href="index.html"><i class="fab fa-instagram"></i></a></li>
 </ul>
 </div>
 </div>
@@ -26,15 +26,15 @@
 
 <div class="main-box">
 <div class="logo-box">
-<div class="logo"><a href="index.php"><img src="images/logo-2.png" alt="Logo"></a></div>
+<div class="logo"><a href="index.html"><img src="images/logo-2.png" alt="Logo"></a></div>
 </div>
 
 <div class="nav-outer">
 <nav class="nav main-menu">
 <ul class="navigation">
-<li><a href="index.php">Home</a></li>
-<li><a href="about.php">About</a></li>
-<li><a href="contact.php">Contact</a></li>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
 </ul>
 </nav>
 </div>
@@ -44,7 +44,7 @@
 
 <button class="ui-btn search-btn light"> <span class="icon lnr lnr-icon-search"></span> </button>
 
-<div class="btn-box"> <a href="index.php" class="theme-btn btn-style-one dark-line-two hover-light"><span class="btn-title">Book a Taxi</span></a> </div>
+<div class="btn-box"> <a href="index.html" class="theme-btn btn-style-one dark-line-two hover-light"><span class="btn-title">Book a Taxi</span></a> </div>
 
 <div class="mobile-nav-toggler light"><span class="icon lnr-icon-bars"></span></div>
 </div>
@@ -57,7 +57,7 @@
 
 <nav class="menu-box">
 <div class="upper-box">
-<div class="nav-logo"><a href="index.php"><img src="images/logo-2.png" alt title></a></div>
+<div class="nav-logo"><a href="index.html"><img src="images/logo-2.png" alt title></a></div>
 <div class="close-btn"><i class="icon fa fa-times"></i></div>
 </div>
 <ul class="navigation clearfix">
@@ -91,7 +91,7 @@
 <div class="auto-container">
 <div class="inner-container">
 
-<div class="logo"> <a href="index.php" title><img src="images/logo.png" alt title></a> </div>
+<div class="logo"> <a href="index.html" title><img src="images/logo.png" alt title></a> </div>
 
 <div class="nav-outer">
 

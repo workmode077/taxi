@@ -37,9 +37,9 @@
 <div class="inner-container">
 <div class="copyright-text">© Copyright</div>
 <ul class="footer-nav">
-<li><a href="index.php"><i class="fab fa-facebook"></i> Facebook</a></li>
-<li><a href="index.php"><i class="fab fa-twitter"></i> Twitter</a></li>
-<li><a href="index.php"><i class="fab fa-linkedin"></i> Linkedin</a></li>
+<li><a href="index.html"><i class="fab fa-facebook"></i> Facebook</a></li>
+<li><a href="index.html"><i class="fab fa-twitter"></i> Twitter</a></li>
+<li><a href="index.html"><i class="fab fa-linkedin"></i> Linkedin</a></li>
 </ul>
 </div>
 </div>
